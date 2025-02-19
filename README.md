@@ -1,12 +1,12 @@
 # 📰 News Trend Analysis
-    
-    🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-    ## 📅 Latest News (2025-02-19)
+🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-    **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 6개 | ⚪ 중립 뉴스: 400개**
+## 📅 Latest News (2025-02-19)
 
-    <table>
+📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 6개 | ⚪ 중립 뉴스: 400개**  
+
+<table>
     <tr>
         <th>No</th>
         <th>Headline</th>
@@ -14,29 +14,28 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/469/0000849643?ntype=RANKING">대학에 떨어진 10대도, 40대 건설 노동자도 이 노래에 울었다</a></td>
+        <td><a href="https:///n.news.naver.com/article/052/0002155133?ntype=RANKING">"수습 직원 20만 명 해고 위기"...마구잡이 칼질로 반발 확산</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/469/0000849663?ntype=RANKING">[단독] 초등생 살해 뒤 응급실서 웃은 여교사...범행 동기 규명 실마리 될까</a></td>
+        <td><a href="https:///n.news.naver.com/article/052/0002155175?ntype=RANKING">자대 배치 한 달 만에 숨진 병사...욕설·기수암기 강요 시달려</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/469/0000849649?ntype=RANKING">[단독] 당신이 낸 '애국 헌금'… '전광훈 유니버스' 배 불린다</a></td>
+        <td><a href="https:///n.news.naver.com/article/052/0002155170?ntype=RANKING">오늘 이재명 공직선거법 항소심 공판...이 시각 서울고법</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/469/0000849640?ntype=RANKING">[단독] 지상욱 "'LH' 이상하니 '사전투표'로 가자"...명태균에 대가성 용역 정황</a></td>
+        <td><a href="https:///n.news.naver.com/article/052/0002155169?ntype=RANKING">한덕수 탄핵심판 본격 시작...대통령 탄핵심판도 막바지로</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/469/0000849646?ntype=RANKING">[단독] 전광훈 "한 달에 헌금만 10억… 작년 광화문 집회에 1000억 지원"</a></td>
+        <td><a href="https:///n.news.naver.com/article/052/0002155160?ntype=RANKING">콜롬비아 대통령 "마약범들, 미사일로 암살 계획 세워"</a></td>
         <td>😐 중립</td>
-    </tr></table>
+    </tr></table>  
 
-    📜 **[View Full News Archive](news_archive.md)** 👈 (Click here for past news)
-    
+📜 **[View Full News Archive](news_archive.md)** 👈 (Click here for past news)
