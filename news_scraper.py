@@ -119,7 +119,7 @@ def update_readme(news_data):
 
     # ✅ 과거 뉴스 기록을 `news_archive.md`에 저장
     archive_file = "news_archive.md"
-    archive_entry = f"## 📅 {today}\n\n{news_table}\n---\n\n"
+    archive_entry = f"## 📅 {today}\n\n{news_table}\n\n---\n\n"
 
     if os.path.exists(archive_file):
         with open(archive_file, "r", encoding="utf-8") as f:
