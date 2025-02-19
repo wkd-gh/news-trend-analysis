@@ -72,10 +72,17 @@ def update_readme(news_data):
     latest_news = news_data[:5]
 
     # ✅ Markdown 테이블 생성
+    # news_table = "| No | Headline | Sentiment |\n|----|---------|----------|\n"
+    # for i, news in enumerate(latest_news, 1):
+    #     sentiment_icon = "😊" if news["sentiment"] == "긍정" else "😡" if news["sentiment"] == "부정" else "😐"
+    #     news_table += f"| {i} | [{news['title']}]({news['link']}) | {sentiment_icon} {news['sentiment']} |\n"
+    
+    # ✅ Markdown 테이블 생성 (파이프 문자 `|`를 안전하게 변환)
     news_table = "| No | Headline | Sentiment |\n|----|---------|----------|\n"
     for i, news in enumerate(latest_news, 1):
+        safe_title = news['title'].replace("|", "｜")  # 🛠️ `|`를 `｜`(전각 문자)로 변환하여 Markdown 충돌 방지
         sentiment_icon = "😊" if news["sentiment"] == "긍정" else "😡" if news["sentiment"] == "부정" else "😐"
-        news_table += f"| {i} | [{news['title']}]({news['link']}) | {sentiment_icon} {news['sentiment']} |\n"
+        news_table += f"| {i} | [{safe_title}]({news['link']}) | {sentiment_icon} {news['sentiment']} |\n"
 
     # ✅ README.md 업데이트 (최신 뉴스만 유지)
     readme_content = f"""# 📰 News Trend Analysis
