@@ -4,7 +4,9 @@ import pandas as pd
 import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
 import datetime
+import os
 
+# ✅ NLTK 감성 분석기 다운로드 및 초기화
 nltk.download("vader_lexicon")
 sia = SentimentIntensityAnalyzer()
 
@@ -49,6 +51,67 @@ def save_to_csv(data):
     print(f"✅ 저장 완료: {filename}")
     return filename
 
+# ✅ README.md 업데이트 함수
+def update_readme(news_data):
+    if len(news_data) == 0:
+        print("🚨 README.md를 업데이트할 뉴스 데이터가 없습니다.")
+        return
+
+    today = datetime.date.today().strftime("%Y-%m-%d")
+
+    # ✅ 감성 분석 결과 요약
+    sentiment_counts = {"긍정": 0, "부정": 0, "중립": 0}
+    for news in news_data:
+        sentiment_counts[news["sentiment"]] += 1
+
+    sentiment_summary = (
+        f"🟢 긍정 뉴스: {sentiment_counts['긍정']}개 | 🔴 부정 뉴스: {sentiment_counts['부정']}개 | ⚪ 중립 뉴스: {sentiment_counts['중립']}개"
+    )
+
+    # ✅ 최신 뉴스 5개만 선택
+    latest_news = news_data[:5]
+
+    # ✅ Markdown 테이블 생성
+    news_table = "| No | Headline | Sentiment |\n|----|---------|----------|\n"
+    for i, news in enumerate(latest_news, 1):
+        sentiment_icon = "😊" if news["sentiment"] == "긍정" else "😡" if news["sentiment"] == "부정" else "😐"
+        news_table += f"| {i} | [{news['title']}]({news['link']}) | {sentiment_icon} {news['sentiment']} |\n"
+
+    # ✅ README.md 업데이트 (최신 뉴스만 유지)
+    readme_content = f"""# 📰 News Trend Analysis
+
+    🚀 This project automatically scrapes the latest news daily and updates this repository.
+
+    ## 📅 Latest News ({today})
+
+    **{sentiment_summary}**
+
+    {news_table}
+
+    📜 **[View Full News Archive](news_archive.md)** 👈 (Click here for past news)
+    """
+
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(readme_content)
+
+    print("✅ README.md updated successfully!")
+
+    # ✅ 과거 뉴스 기록을 `news_archive.md`에 저장
+    archive_file = "news_archive.md"
+    archive_entry = f"## 📅 {today}\n\n{news_table}\n---\n"
+
+    if os.path.exists(archive_file):
+        with open(archive_file, "r", encoding="utf-8") as f:
+            old_archive = f.read()
+    else:
+        old_archive = "# 📜 News Archive\n\n"
+
+    with open(archive_file, "w", encoding="utf-8") as f:
+        f.write(old_archive + archive_entry)
+
+    print("✅ news_archive.md updated successfully!")
+
 if __name__ == "__main__":
     news = get_naver_news()
     save_to_csv(news)
+    update_readme(news)
