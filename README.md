@@ -1,5 +1,5 @@
 # 📰 News Trend Analysis
-
+    
     🚀 This project automatically scrapes the latest news daily and updates this repository.
 
     ## 📅 Latest News (2025-02-19)
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/001/0015221215?ntype=RANKING">북한군 포로 "한국가고 싶다"…정부, 우크라와 귀순 협의 나서나</a></td>
+        <td><a href="https:///n.news.naver.com/article/469/0000849643?ntype=RANKING">대학에 떨어진 10대도, 40대 건설 노동자도 이 노래에 울었다</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/001/0015221016?ntype=RANKING">'천재 아역' 출신 故 김새론, 유족·지인 마지막 배웅 속 영면</a></td>
+        <td><a href="https:///n.news.naver.com/article/469/0000849663?ntype=RANKING">[단독] 초등생 살해 뒤 응급실서 웃은 여교사...범행 동기 규명 실마리 될까</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/001/0015220892?ntype=RANKING">서울의대 교수, '참의사' 악플에 "할말 못하면 그게 지식인인가"</a></td>
+        <td><a href="https:///n.news.naver.com/article/469/0000849649?ntype=RANKING">[단독] 당신이 낸 '애국 헌금'… '전광훈 유니버스' 배 불린다</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/001/0015220928?ntype=RANKING">전두환 장남이 세운 출판 도매업체 '북플러스' 유동성 위기</a></td>
+        <td><a href="https:///n.news.naver.com/article/469/0000849640?ntype=RANKING">[단독] 지상욱 "'LH' 이상하니 '사전투표'로 가자"...명태균에 대가성 용역 정황</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/001/0015220895?ntype=RANKING">'계엄' 수사받는 현역군인 30명…장군 17명·영관급 장교 13명</a></td>
+        <td><a href="https:///n.news.naver.com/article/469/0000849646?ntype=RANKING">[단독] 전광훈 "한 달에 헌금만 10억… 작년 광화문 집회에 1000억 지원"</a></td>
         <td>😐 중립</td>
     </tr></table>
 
