@@ -100,17 +100,17 @@ def update_readme(news_data):
 
     # ✅ README.md 업데이트 (최신 뉴스만 유지)
     readme_content = f"""# 📰 News Trend Analysis
-    
-    🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-    ## 📅 Latest News ({today})
+🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-    **{sentiment_summary}**
+## 📅 Latest News ({today})
 
-    {news_table}
+📊 **{sentiment_summary}**  
 
-    📜 **[View Full News Archive](news_archive.md)** 👈 (Click here for past news)
-    """
+{news_table}  
+
+📜 **[View Full News Archive](news_archive.md)** 👈 (Click here for past news)
+"""
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(readme_content)
