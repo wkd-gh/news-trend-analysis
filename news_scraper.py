@@ -100,7 +100,7 @@ def update_readme(news_data):
 
     # ✅ README.md 업데이트 (최신 뉴스만 유지)
     readme_content = f"""# 📰 News Trend Analysis
-
+    
     🚀 This project automatically scrapes the latest news daily and updates this repository.
 
     ## 📅 Latest News ({today})
