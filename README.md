@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-02-19)
+## 📅 Latest News (2025-02-20)
 
-📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 6개 | ⚪ 중립 뉴스: 402개**  
+📊 **🟢 긍정 뉴스: 3개 | 🔴 부정 뉴스: 6개 | ⚪ 중립 뉴스: 401개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/421/0008085682?ntype=RANKING">이지아 아빠, 친일파 부친이 남긴 350억 땅 형제끼리 법적 분쟁</a></td>
+        <td><a href="https:///n.news.naver.com/article/015/0005096622?ntype=RANKING">연예인 아니야?…중국서 인기 폭발한 미모의 女 경호원</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/421/0008084756?ntype=RANKING">학생 태운 태권도차 기사, 고속도로서 양손은 폰에 다리는 창틀에 '아찔'[영상]</a></td>
+        <td><a href="https:///n.news.naver.com/article/015/0005096623?ntype=RANKING">"금 말고 이거 사야 하나"…발 빠른 투자자들 벌써 쓸어 담았다</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/421/0008084292?ntype=RANKING">"불륜 들켜 갈라서자는 아내 붙잡았는데…지금도 상간녀 너무 좋아, 이혼 간절"</a></td>
+        <td><a href="https:///n.news.naver.com/article/015/0005096593?ntype=RANKING">"이게 무슨 일이냐?"…2차전지 급등에 개미들 '환호'</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/421/0008085839?ntype=RANKING">윤 대통령 측 "중대 결심, 집단 사퇴 포함…조기하야 고려 안 해"</a></td>
+        <td><a href="https:///n.news.naver.com/article/015/0005096640?ntype=RANKING">"스타벅스 커피 못 마시겠네" 난리…美서 불만 속출한 이유</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/421/0008084290?ntype=RANKING">"아빠 모두 다른 애 셋 여자와 재혼한다는 친오빠…집안 뒤집어졌다"</a></td>
+        <td><a href="https:///n.news.naver.com/article/015/0005096653?ntype=RANKING">"드디어 집 살 수 있는 건가요?"…'반전' 전망 나왔다</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
