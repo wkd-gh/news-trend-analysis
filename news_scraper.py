@@ -7,7 +7,7 @@ import datetime
 import os
 
 # ✅ NLTK 감성 분석기 다운로드 및 초기화
-nltk.download("vader_lexicon")
+nltk.download("vader_lexicon") # 영어에 최적화되어 있어서 한글 분석에는 한게가 있음.. 다른 걸로 바꿀 필요가 있음
 sia = SentimentIntensityAnalyzer()
 
 # 네이버 뉴스 크롤링 함수
@@ -70,13 +70,6 @@ def update_readme(news_data):
 
     # ✅ 최신 뉴스 5개만 선택
     latest_news = news_data[:5]
-    
-    # ✅ Markdown 테이블 생성 (파이프 문자 `|`를 안전하게 변환)
-    # news_table = "| No | Headline | Sentiment |\n|----|---------|----------|\n"
-    # for i, news in enumerate(latest_news, 1):
-    #     safe_title = news['title'].replace("|", "｜")  # 🛠️ `|`를 `｜`(전각 문자)로 변환하여 Markdown 충돌 방지
-    #     sentiment_icon = "😊" if news["sentiment"] == "긍정" else "😡" if news["sentiment"] == "부정" else "😐"
-    #     news_table += f"| {i} | [{safe_title}]({news['link']}) | {sentiment_icon} {news['sentiment']} |\n"
 
     # ✅ Markdown 테이블 생성 (줄바꿈 및 공백 처리)
     news_table = """<table>
