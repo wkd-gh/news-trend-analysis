@@ -2,7 +2,7 @@ name: News Scraper & Sentiment Analysis
 
 on:
   schedule:
-    - cron: "0 22 * * *"  # 한국 시간(KST) 오전 9시 (UTC 0시) 실행
+    - cron: "0 0 * * *"  # 한국 시간(KST) 오전 9시 (UTC 0시) 실행
   workflow_dispatch:  # 👈 수동 실행 가능
 
 jobs:
