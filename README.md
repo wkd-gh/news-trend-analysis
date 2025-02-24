@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-02-23)
+## 📅 Latest News (2025-02-24)
 
-📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 391개**  
+📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 4개 | ⚪ 중립 뉴스: 390개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/277/0005550580?ntype=RANKING">결국 '강남 이모님' 된 필리핀 가사도우미…"월 300만원, 숙소도 자율"</a></td>
+        <td><a href="https:///n.news.naver.com/article/448/0000510020?ntype=RANKING">'전쟁 3년' 우크라, 700조 광물 재건기금…"주내 서명"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/277/0005550432?ntype=RANKING">"돈 허투루 쓰고 싶지 않아요"…요즘 다시 뜬다는 '이 카드'[주머니톡]</a></td>
+        <td><a href="https:///n.news.naver.com/article/448/0000510008?ntype=RANKING">尹, 내일 최종변론…'임기 단축 개헌' 제안 검토 중</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/277/0005550430?ntype=RANKING">쿠팡보다 '후딱 2시간 다이소 알바'…"부업으로 인기만발"[천원템의 진화]</a></td>
+        <td><a href="https:///n.news.naver.com/article/448/0000510009?ntype=RANKING">헌재, 검사 3인 탄핵 변론 종결…박성재 심판 시작</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/277/0005550585?ntype=RANKING">기안84도 마셨는데 대장균 득실…"알칼리수만큼 깨끗" 발끈</a></td>
+        <td><a href="https:///n.news.naver.com/article/448/0000510011?ntype=RANKING">이재명, '비명' 김부겸 전격 회동…26일 선거법 항소심 결심공판</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/277/0005550588?ntype=RANKING">젤렌스키, 트럼프 '독재자' 비난에 "우크라 나토 가입시 대통령직 사임"</a></td>
+        <td><a href="https:///n.news.naver.com/article/448/0000510015?ntype=RANKING">수익률 반짝 'K-증시 반격'…서학 개미들 돌아오나?</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
