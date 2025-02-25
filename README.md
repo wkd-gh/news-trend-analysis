@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-02-24)
+## 📅 Latest News (2025-02-25)
 
-📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 4개 | ⚪ 중립 뉴스: 390개**  
+📊 **🟢 긍정 뉴스: 1개 | 🔴 부정 뉴스: 4개 | ⚪ 중립 뉴스: 397개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/448/0000510020?ntype=RANKING">'전쟁 3년' 우크라, 700조 광물 재건기금…"주내 서명"</a></td>
+        <td><a href="https:///n.news.naver.com/article/366/0001056415?ntype=RANKING">바이비트 사태에 코인시장 충격...이더리움·리플 10% 폭락</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/448/0000510008?ntype=RANKING">尹, 내일 최종변론…'임기 단축 개헌' 제안 검토 중</a></td>
+        <td><a href="https:///n.news.naver.com/article/366/0001056406?ntype=RANKING">[연금의 고수] ‘13월의 월급’ 받았다면… 강제저축으로 노후 대비하세요</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/448/0000510009?ntype=RANKING">헌재, 검사 3인 탄핵 변론 종결…박성재 심판 시작</a></td>
+        <td><a href="https:///n.news.naver.com/article/366/0001056399?ntype=RANKING">두산, 엔비디아 품질 검증 또 뚫을까… 전자 사업 증설 검토</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/448/0000510011?ntype=RANKING">이재명, '비명' 김부겸 전격 회동…26일 선거법 항소심 결심공판</a></td>
+        <td><a href="https:///n.news.naver.com/article/366/0001056402?ntype=RANKING">與野 모두 약속한 ‘초등생 사교육비 세액공제’에 정부는 ‘냉랭’… 그 이유는</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/448/0000510015?ntype=RANKING">수익률 반짝 'K-증시 반격'…서학 개미들 돌아오나?</a></td>
+        <td><a href="https:///n.news.naver.com/article/366/0001056194?ntype=RANKING">“이 같은 사랑 느껴본 적 없다”… 동성 결혼한 샘 올트먼 득남</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
