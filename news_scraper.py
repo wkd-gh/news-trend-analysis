@@ -39,14 +39,19 @@ def get_naver_news():
     return articles
 
 # 데이터 저장
-def save_to_csv(data):
+def save_to_csv(data, folder="news_data"):
     if len(data) == 0:
         print("🚨 저장할 뉴스 데이터가 없습니다. CSV 파일을 만들지 않습니다.")
         return None
 
+    # 폴더가 없으면 생성
+    if not os.path.exists(folder):
+        os.makedirs(folder)
+
     df = pd.DataFrame(data)
     today = datetime.date.today().strftime("%Y-%m-%d")
-    filename = f"news_{today}.csv"
+    filename = os.path.join(folder, f"news_{today}.csv")  # ✅ 특정 폴더 안에 저장
+
     df.to_csv(filename, index=False, encoding="utf-8")
     print(f"✅ 저장 완료: {filename}")
     return filename
