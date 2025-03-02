@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-03-01)
+## 📅 Latest News (2025-03-02)
 
-📊 **🟢 긍정 뉴스: 0개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 410개**  
+📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 400개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/079/0003997380?ntype=RANKING">비트코인 -20%·이더리움 -30%…1400조원 한달새 증발</a></td>
+        <td><a href="https:///n.news.naver.com/article/028/0002733594?ntype=RANKING">고개 푹, 절레절레…트럼프-젤렌스키 회담서 포착된 ‘극한직업’</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/079/0003997396?ntype=RANKING">당 홍보물에 이재명 찢은 눈…"유치한 국힘"[지지율대책회의]</a></td>
+        <td><a href="https:///n.news.naver.com/article/028/0002733596?ntype=RANKING">[영상] 이재명 “연평도 꽃게 밥 될 뻔”…윤석열 파면 촉구 야5당 집회</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/079/0003997383?ntype=RANKING">중도 민심은 계속 '찬탄'…"與, 극우 여론에 속지 말아야"</a></td>
+        <td><a href="https:///n.news.naver.com/article/028/0002733566?ntype=RANKING">“살 만큼 살았잖아” 세 자매는 달렸다…내란 막은 시민들의 그날 밤</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/079/0003997381?ntype=RANKING">연금개혁 멈춰…'소득대체율 1%p·자동조정장치' 뭐길래</a></td>
+        <td><a href="https:///n.news.naver.com/article/028/0002733598?ntype=RANKING">“윤석열이 상식을 난도질했다”…3·1절 도심 울린 만세 삼창</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/079/0003997387?ntype=RANKING">전운 도는 3·1절 집회…與 '광장 정치' 감당할 수 있나</a></td>
+        <td><a href="https:///n.news.naver.com/article/028/0002733593?ntype=RANKING">집회 달려간 나경원·윤상현 등 국힘 30여명 “윤 대통령 복귀”</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
