@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-03-05)
+## 📅 Latest News (2025-03-06)
 
-📊 **🟢 긍정 뉴스: 3개 | 🔴 부정 뉴스: 4개 | ⚪ 중립 뉴스: 395개**  
+📊 **🟢 긍정 뉴스: 7개 | 🔴 부정 뉴스: 1개 | ⚪ 중립 뉴스: 404개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/025/0003424651?ntype=RANKING">보름 새 100명 목숨 앗아갔다…우유니 사막 앞 '죽음의 협곡'</a></td>
+        <td><a href="https:///n.news.naver.com/article/437/0000432306?ntype=RANKING">'고문실로 바뀐 집' 아내에게 수갑 채우고 채찍질…성고문까지</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/025/0003424673?ntype=RANKING">트럼프 '살벌 경고' 통했다…젤렌스키 "공중·해상 즉각 휴전 가능"</a></td>
+        <td><a href="https:///n.news.naver.com/article/437/0000432277?ntype=RANKING">[단독] 조지호 "윤 대통령 '경찰 엉망' 말에 바짝 쫄아"…그날 무슨 일이?</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/025/0003424518?ntype=RANKING">술 취한 여성을 집단으로…전 유명 아이돌, 성폭행 혐의 재판행</a></td>
+        <td><a href="https:///n.news.naver.com/article/437/0000432289?ntype=RANKING">여행가방 바퀴 분해하자 번쩍번쩍…방법 더 교묘해졌다</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/025/0003424674?ntype=RANKING">시우민 측 "'뮤뱅' 출연 거부당해…KBS, 연락도 묵살" 주장 왜</a></td>
+        <td><a href="https:///n.news.naver.com/article/437/0000432305?ntype=RANKING">[단독] 삼부토건 '우크라 테마주' 100억대 이익실현…국토부 차관 이례적 만남도</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/025/0003424678?ntype=RANKING">7급 공무원 붙고도 임용 포기한 남성…"부모님 몰래 장사했다" 왜</a></td>
+        <td><a href="https:///n.news.naver.com/article/437/0000432318?ntype=RANKING">'윤 부부 공천개입' 수사 속도…검찰, 명태균 추가 조사</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
