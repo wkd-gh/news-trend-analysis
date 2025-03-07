@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-03-06)
+## 📅 Latest News (2025-03-07)
 
-📊 **🟢 긍정 뉴스: 7개 | 🔴 부정 뉴스: 1개 | ⚪ 중립 뉴스: 404개**  
+📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 3개 | ⚪ 중립 뉴스: 404개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/437/0000432306?ntype=RANKING">'고문실로 바뀐 집' 아내에게 수갑 채우고 채찍질…성고문까지</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001409583?ntype=RANKING">급경사 내려오다 '쾅'‥택시 한 대서 4명 숨져</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/437/0000432277?ntype=RANKING">[단독] 조지호 "윤 대통령 '경찰 엉망' 말에 바짝 쫄아"…그날 무슨 일이?</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001409545?ntype=RANKING">장제원 결국 소환‥"내 맘 뭐가 돼" 문자 무엇?</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/437/0000432289?ntype=RANKING">여행가방 바퀴 분해하자 번쩍번쩍…방법 더 교묘해졌다</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001409516?ntype=RANKING">"전공의 처단" 尹 사라지자 태도 변화‥조기 대선 의식?</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/437/0000432305?ntype=RANKING">[단독] 삼부토건 '우크라 테마주' 100억대 이익실현…국토부 차관 이례적 만남도</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001409562?ntype=RANKING">전투기 폭탄 마을 덮쳐‥쑥대밭 속 15명 다쳐</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/437/0000432318?ntype=RANKING">'윤 부부 공천개입' 수사 속도…검찰, 명태균 추가 조사</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001409505?ntype=RANKING">교량 파괴용 폭탄을 민가에 투하‥"전투기 조종사가 좌표 입력 실수"</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
