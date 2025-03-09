@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-03-08)
+## 📅 Latest News (2025-03-09)
 
-📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 5개 | ⚪ 중립 뉴스: 404개**  
+📊 **🟢 긍정 뉴스: 5개 | 🔴 부정 뉴스: 3개 | ⚪ 중립 뉴스: 398개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/082/0001314998?ntype=RANKING">"도로에 주유건 꽂은 차량이" 기름 넣고 깜빡한 50대…경찰 출동 소동</a></td>
+        <td><a href="https:///n.news.naver.com/article/009/0005455534?ntype=RANKING">“남녀 벌거벗고 함께 씻어도 문제없다” 기록된 시대...목욕의 역사 엿보기 [Books]</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/082/0001314941?ntype=RANKING">"건보료 왜 미납하셨어요" 퇴사 통보 후 결근한 근로자들, 업무방해 혐의 무죄</a></td>
+        <td><a href="https:///n.news.naver.com/article/009/0005455537?ntype=RANKING">‘尹 구속 취소’ 지귀연 판사…‘韓관세, 미국의 4배’ 압박수위 높이는 트럼프 [이번주인공]</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/082/0001315001?ntype=RANKING">“내란수괴 감옥으로” “사기 탄핵 들통났다” 윤 대통령 석방 결정에 전국서 찬반 집회 잇따라</a></td>
+        <td><a href="https:///n.news.naver.com/article/009/0005455538?ntype=RANKING">“평생 月60만원 ‘공짜연금’ 탈수 있었는데”…연금분할, 이럴땐 안돼요 [언제까지 직장인]</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/082/0001314976?ntype=RANKING">법원이 밝힌 윤석열 대통령 구속 취소 이유… “구속기간 지나 기소됐다”</a></td>
+        <td><a href="https:///n.news.naver.com/article/009/0005455515?ntype=RANKING">“소속사도 얘기 빙빙 돌린다”…갑작스럽게 수술 소식 전한 김광규</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/082/0001314971?ntype=RANKING">2026년 의대 증원 없다...정부·대학 "의대생 돌아와라" 호소 (종합)</a></td>
+        <td><a href="https:///n.news.naver.com/article/009/0005455543?ntype=RANKING">“서른 넘어 내 돈으로 먹고싶은거 먹었다”...추성훈, 격투기 파이트머니 공개했다는데</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
