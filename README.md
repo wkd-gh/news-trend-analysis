@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-03-09)
+## 📅 Latest News (2025-03-10)
 
-📊 **🟢 긍정 뉴스: 5개 | 🔴 부정 뉴스: 3개 | ⚪ 중립 뉴스: 398개**  
+📊 **🟢 긍정 뉴스: 3개 | 🔴 부정 뉴스: 7개 | ⚪ 중립 뉴스: 391개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005455534?ntype=RANKING">“남녀 벌거벗고 함께 씻어도 문제없다” 기록된 시대...목욕의 역사 엿보기 [Books]</a></td>
+        <td><a href="https:///n.news.naver.com/article/020/0003619939?ntype=RANKING">‘현대가 3세’ 정대선-노현정 부부 27억대 집 강제 경매</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005455537?ntype=RANKING">‘尹 구속 취소’ 지귀연 판사…‘韓관세, 미국의 4배’ 압박수위 높이는 트럼프 [이번주인공]</a></td>
+        <td><a href="https:///n.news.naver.com/article/020/0003619950?ntype=RANKING">檢 수사팀 “즉시항고 해야” 반발에… 檢총장이 직접 尹 석방 지휘</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005455538?ntype=RANKING">“평생 月60만원 ‘공짜연금’ 탈수 있었는데”…연금분할, 이럴땐 안돼요 [언제까지 직장인]</a></td>
+        <td><a href="https:///n.news.naver.com/article/020/0003619948?ntype=RANKING">트뤼도와 욕설 치고받은 트럼프 “캐나다 목재-유제품에 새 관세” 또 말바꿔</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005455515?ntype=RANKING">“소속사도 얘기 빙빙 돌린다”…갑작스럽게 수술 소식 전한 김광규</a></td>
+        <td><a href="https:///n.news.naver.com/article/020/0003619945?ntype=RANKING">野5당 “檢총장 사퇴안하면 탄핵”… 與 “헌재 尹심판 원점 재검토를”</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005455543?ntype=RANKING">“서른 넘어 내 돈으로 먹고싶은거 먹었다”...추성훈, 격투기 파이트머니 공개했다는데</a></td>
+        <td><a href="https:///n.news.naver.com/article/020/0003620010?ntype=RANKING">대마초에서 진통 효과만 쏙… 중독성 없는 진통제 나왔다</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
