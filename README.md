@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-03-16)
+## 📅 Latest News (2025-03-17)
 
-📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 396개**  
+📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 3개 | ⚪ 중립 뉴스: 388개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005459178?ntype=RANKING">“20살 연상 유부녀와 잠자리 정도야”...출세에 눈멀어 한 나라 망친 비극적 치정극 [사색(史色]</a></td>
+        <td><a href="https:///n.news.naver.com/article/022/0004019440?ntype=RANKING">13억→8억→11억→8억→?…“집값 급락한 뒤 바닥” vs “본격 회복세 아직”</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005459277?ntype=RANKING">‘미성년자와 연애설’ 발칵…해명마다 논란 끊이지 않는 톱스타 [이번주인공]</a></td>
+        <td><a href="https:///n.news.naver.com/article/022/0004019438?ntype=RANKING">“건강하게 오래 살려고 운동했는데”…반전 있었다?</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005459269?ntype=RANKING">“한국에선 ‘벤츠’ 타야 대접? 풉, 이젠 아냐”…확 바뀐 ‘반칙의 제왕’ MBTI는 [세상만車]</a></td>
+        <td><a href="https:///n.news.naver.com/article/022/0004019402?ntype=RANKING">백종원, 결국 형사 입건…‘70억 역대급 탈세’ 의혹 터진 유연석 [금주의 사건사고]</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005459287?ntype=RANKING">만리장성에서 노출사진 찍다 체포...日 남녀 수위 어느정도였길래</a></td>
+        <td><a href="https:///n.news.naver.com/article/022/0004019446?ntype=RANKING">“기억이 안 나네”...임영웅도 고백한 ‘이 증상’, 자가 진단 해보니</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005459278?ntype=RANKING">“출근길 주문해서 퇴근길 받았다”…쿠팡 잡을 네이버 新 AI 쇼핑 써보니</a></td>
+        <td><a href="https:///n.news.naver.com/article/022/0004019442?ntype=RANKING">“앞으로 북한 소식 못 듣게 될 수도”…트럼프, 김정은에게 다가 가기? [수민이가 궁금해요]</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
