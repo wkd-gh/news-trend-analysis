@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-03-22)
+## 📅 Latest News (2025-03-23)
 
-📊 **🟢 긍정 뉴스: 7개 | 🔴 부정 뉴스: 1개 | ⚪ 중립 뉴스: 399개**  
+📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 3개 | ⚪ 중립 뉴스: 393개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/020/0003622954?ntype=RANKING">차인표 추천 대치동 소설…옥스퍼드대 교수가 본 ‘서울 엄마들’[이설의 글로벌 책터뷰]</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005565311?ntype=RANKING">주방서 매일같이 쓰는 물건인데 "대변 수준으로 더럽다"…인체 영향은?</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/020/0003622958?ntype=RANKING">“나는 누구?” AI에 물었더니 “아들 둘 죽인 아빠”…명예훼손 고소</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005565223?ntype=RANKING">"로켓 해지하고 넘어왔어요"…쿠팡 위협하는 다이소몰 '오늘배송'[천원템의 진화]</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/020/0003622965?ntype=RANKING">담양서 ‘촛불혁명’ 외친 이재명 “尹 복귀땐 무법천지, 나라 망해”</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005565305?ntype=RANKING">숨진 '부동산 일타 강사' 누운 채 공격 당해…아내 살인 혐의 영장 재신청</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/020/0003622960?ntype=RANKING">“머스크, 13번째 자녀에 양육비 삭감”…양육권 소송에 보복 주장 제기</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005565248?ntype=RANKING">"구충제로는 치료 못 해"…'국민생선' 고등어에서 식중독 유발 고래회충 발견</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/020/0003622946?ntype=RANKING">또 “고정밀 지도 달라”는 구글… 보안시설 노출 우려 넘을까</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005565282?ntype=RANKING">유연석 70억, 이하늬 60억 이어 조진웅도 11억 걸렸다…"세법 해석 차이"</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
