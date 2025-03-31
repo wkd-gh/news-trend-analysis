@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-03-30)
+## 📅 Latest News (2025-03-31)
 
-📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 396개**  
+📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 5개 | ⚪ 중립 뉴스: 383개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/421/0008161258?ntype=RANKING">'2500만원' 매달 승용차 1대값 낸다…강남·용산서 잇단 초고가 월세</a></td>
+        <td><a href="https:///n.news.naver.com/article/009/0005467689?ntype=RANKING">‘나와 잤던 모든 사람들’...성관계 떠올리게 한 제목, 사실은 따뜻한 예술</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/421/0008161246?ntype=RANKING">"여자 하체 싱싱한 20대 후반에 출산해라"…여고 남교사 발언 '공분'</a></td>
+        <td><a href="https:///n.news.naver.com/article/009/0005467683?ntype=RANKING">“문 연지 10일만에 100만명이라니”…쿠팡도 떨게 할 롯데 총동원령</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/421/0008161255?ntype=RANKING">"별거 안 하면 3개월 내 죽어…1년만 각방 써" 점집 다녀온 시모 강요</a></td>
+        <td><a href="https:///n.news.naver.com/article/009/0005467679?ntype=RANKING">“부모님 챙겨드리고, 마을분들 나눠드려라”...산불현장 직접 찾아가 돈뭉치 건넨 ‘이 남자’</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/421/0008161267?ntype=RANKING">尹 탄핵 추측만 하다 3월 지났다…내달 4·11일 선고 물망</a></td>
+        <td><a href="https:///n.news.naver.com/article/009/0005467666?ntype=RANKING">“질문 NO”…‘故 김새론·설리 의혹’ 김수현, 31일 기자회견 연다</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/421/0008161366?ntype=RANKING">"노출 못하면 불가…테이블 위 어린 여성들 가득"…'리얼' 오디션 후기 재조명</a></td>
+        <td><a href="https:///n.news.naver.com/article/009/0005467736?ntype=RANKING">김종민 “나영석·강호동 믿고 ‘1박2일’ 버텼는데...나빼고 다 나가”</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
