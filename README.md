@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-04-01)
+## 📅 Latest News (2025-04-02)
 
-📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 3개 | ⚪ 중립 뉴스: 394개**  
+📊 **🟢 긍정 뉴스: 5개 | 🔴 부정 뉴스: 1개 | ⚪ 중립 뉴스: 405개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/029/0002944950?ntype=RANKING">與이수정 "장제원, 이런 방법밖에 없었나…피해자 안전 챙겨달라"</a></td>
+        <td><a href="https:///n.news.naver.com/article/055/0001245483?ntype=RANKING">"외모 좋은 20대 여성"…일당 20만 원 벚꽃 아르바이트 '논란'</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/029/0002944949?ntype=RANKING">[속보] 장제원 전 의원, 어젯밤 서울 강동구서 숨진 채 발견</a></td>
+        <td><a href="https:///n.news.naver.com/article/055/0001245462?ntype=RANKING">"작년, 1973년 이래 가장 더웠다"…열대야도 평년의 3배</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/029/0002944774?ntype=RANKING">"냄새도 안 나고 24시간 안전해"…화장실서 먹고 자는 18세 여성</a></td>
+        <td><a href="https:///n.news.naver.com/article/055/0001245456?ntype=RANKING">"대기자 6만 명 넘어"…윤 탄핵심판 선고, 방청 신청 폭주</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/029/0002944937?ntype=RANKING">"갈치구이가 1인당 10만원?"…제주지사, `작심 발언` 나선 까닭은</a></td>
+        <td><a href="https:///n.news.naver.com/article/055/0001245382?ntype=RANKING">승객 말에 문 열고, 배터리 교체…중국 자율주행 이 정도</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/029/0002944922?ntype=RANKING">`뵙고 싶다`는 이재명 물리친 한덕수 "민생 현안 우선 대응 뒤 검토"</a></td>
+        <td><a href="https:///n.news.naver.com/article/055/0001245441?ntype=RANKING">미, 한국시간 3일 오전 5시 상호 관세 발표…관세전쟁 글로벌 확대</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
