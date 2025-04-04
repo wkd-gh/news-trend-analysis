@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-04-03)
+## 📅 Latest News (2025-04-04)
 
-📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 4개 | ⚪ 중립 뉴스: 400개**  
+📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 3개 | ⚪ 중립 뉴스: 403개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/057/0001879662?ntype=RANKING">30대 여성 2명 '이곳'에 필러 맞고 사망…"혈관 막혀"</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005572474?ntype=RANKING">"한국은 끝났다…아마 돌이킬 수 없을 듯" 섬뜩 경고 날린 2380만 유튜버</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/057/0001879644?ntype=RANKING">"탄핵심판날이랑 겹쳐서"…'여의도 벚꽃축제' 8일로 연기</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005572703?ntype=RANKING">美 정부, '중국인과 성관계·연애 금지령'…냉전 이후 처음</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/057/0001879641?ntype=RANKING">챗GPT '지브리 화풍' 인기에 저작권 문제 대두…갑자기 제한한 챗GPT</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005572463?ntype=RANKING">"내년에 가자" 대사에 흥분…'폭싹' 배우들에 초대장 보낸 중국 장가계</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/057/0001879665?ntype=RANKING">조국혁신당 첫 기초단체장 배출…민주 제치고 호남서 '승리'</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005572663?ntype=RANKING">"'이 자격증'만 있으면 60대도 취업 프리패스"…5060 은퇴족 몰린다</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/057/0001879653?ntype=RANKING">트럼프 "한국에 상호관세 25%"…중국 34%, 일본 24%, EU 20%</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005572810?ntype=RANKING">[속보] 헌법재판관 8명 전원 출근…오전 마지막 평의</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
