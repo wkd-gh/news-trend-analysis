@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-04-07)
+## 📅 Latest News (2025-04-08)
 
-📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 3개 | ⚪ 중립 뉴스: 390개**  
+📊 **🟢 긍정 뉴스: 1개 | 🔴 부정 뉴스: 1개 | ⚪ 중립 뉴스: 394개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/366/0001067242?ntype=RANKING">‘관세 패닉’ 프리마켓서 삼성전자·SK하이닉스 등 대형주 줄하락</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003432597?ntype=RANKING">"박나래 열애설? 전현무 아까워" 보아, 취중 라방 발언 사과</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/366/0001067222?ntype=RANKING">[부동산폴] 전문가 100% “서울 집값, 당분간 오른다… 강남·용산 ‘강세’ 전망”</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003432490?ntype=RANKING">대한항공 조종사들, 호주 호텔서 주먹질…'尹 탄핵' 놓고 싸움</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/366/0001067237?ntype=RANKING">"이러다 선거 완패할 수도"… 트럼프 관세 정책에 공화당 내 우려 확산</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003432532?ntype=RANKING">"내가 있어, 지금의 尹있다…김 여사 매번 그렇게 말해" [尹의 1060일 ②]</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/366/0001067227?ntype=RANKING">大法 “암 2개 걸린 경우 첫 발생 기준으로 보험금 지급한다고 보험사가 설명해야”</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003432546?ntype=RANKING">트럼프, 中에 104% 관세 경고 "보복 철회 안하면 50% 추가"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/366/0001067234?ntype=RANKING">현대백화점 ‘효자 계열사’ 지누스, 트럼프 관세 수혜주에서 피해주로</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003432600?ntype=RANKING">[속보] 삼성전자 1분기 영업이익 6.6조원…시장 기대치 상회</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
