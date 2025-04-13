@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-04-12)
+## 📅 Latest News (2025-04-13)
 
-📊 **🟢 긍정 뉴스: 1개 | 🔴 부정 뉴스: 4개 | ⚪ 중립 뉴스: 406개**  
+📊 **🟢 긍정 뉴스: 5개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 392개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005475096?ntype=RANKING">“우리가 왜 손해를 봐야해”...보험 가입자들 떨게하는 ‘감액이전’ 뭐길래</a></td>
+        <td><a href="https:///n.news.naver.com/article/081/0003533012?ntype=RANKING">미국 11개 명문대 동시합격한 용인외대부고 졸업생…관심분야는 ‘이것’</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005475100?ntype=RANKING">팬티에 달려있는 커다란 구멍, 남자들을 열광케 했다...근데 그거 뭐지? [그거사전]</a></td>
+        <td><a href="https:///n.news.naver.com/article/081/0003533000?ntype=RANKING">“2주에 1300만원 산후조리원에선…” 97만 유튜버 생생 후기 화제</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005475102?ntype=RANKING">“비싼 돈주고 사먹을 필요없지”...다이소에 편의점까지 가성비 건기식 폭증</a></td>
+        <td><a href="https:///n.news.naver.com/article/081/0003532993?ntype=RANKING">“저 남자 몸 좀 봐” 딴사람 된 비결…‘이것’ 끊고 놀라운 효과</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005475069?ntype=RANKING">“女연예인·유명BJ 딥페이크 수천개 제작”...뿌린 놈도 본 놈도 다 잡혔다</a></td>
+        <td><a href="https:///n.news.naver.com/article/081/0003533004?ntype=RANKING">성매매 女, 고급 아파트에 ‘업소’ 차리자…충격적인 ‘VIP 명단’ 공개</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005475078?ntype=RANKING">尹과 포옹한 ‘과잠’ 대학생 정체 “대통령실 요청 자유대학 학생들”</a></td>
+        <td><a href="https:///n.news.naver.com/article/081/0003533009?ntype=RANKING">“버스 좀 알려줘” 여중생 허벅지 쓸어내린 80대…“스쳤을 뿐” 변명 안 통했던 이유</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
