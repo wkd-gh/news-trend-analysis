@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-04-14)
+## 📅 Latest News (2025-04-15)
 
-📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 6개 | ⚪ 중립 뉴스: 382개**  
+📊 **🟢 긍정 뉴스: 1개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 398개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/028/0002740717?ntype=RANKING">[단독] 윤석열 ‘나랏돈 잔치’…500만원 캣타워·2천만원 욕조까지</a></td>
+        <td><a href="https:///n.news.naver.com/article/052/0002180214?ntype=RANKING">[속보] 반도체 분야, 재정 투자 33조로 확대...소부장 '투자보조금' 신설</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/028/0002740711?ntype=RANKING">“그는 기어코 우산을 혼자 들었다”…‘이재명의 준비’ 17일 출간</a></td>
+        <td><a href="https:///n.news.naver.com/article/052/0002180205?ntype=RANKING">[날씨] 비바람 그쳤지만 출근길 꽃샘추위...낮부터 기온 오름세</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/028/0002740719?ntype=RANKING">청와대 인산인해…“대선 뒤 못 올지도” “용산으로 왜 옮겼는지 의문”</a></td>
+        <td><a href="https:///n.news.naver.com/article/052/0002180221?ntype=RANKING">"中·베트남, 어떻게 미국 망칠지 파악"...시진핑 보복에 美 방산 '비상' [굿모닝경제]</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/028/0002740727?ntype=RANKING">지귀연 재판부 윤석열 봐주기…이명박·박근혜도 섰던 법정 촬영 불허</a></td>
+        <td><a href="https:///n.news.naver.com/article/052/0002180193?ntype=RANKING">겹겹이 쌓인 잔해에 기상악화...실종자 수색 닷새째 '난항'</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/028/0002740720?ntype=RANKING">“대통령 궐위로 대선 치러도 인수위 거치게 제도 바꿔야”</a></td>
+        <td><a href="https:///n.news.naver.com/article/052/0002180173?ntype=RANKING">안중근 유묵·한용운 병풍, 독립 열망 담은 유물 대거 경매 출품</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
