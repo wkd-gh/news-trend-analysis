@@ -2,7 +2,7 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-04-16)
+## 📅 Latest News (2025-04-17)
 
 📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 1개 | ⚪ 중립 뉴스: 404개**  
 
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/056/0011932543?ntype=RANKING">[단독] 실업급여 반복 수급 49만여 명…20회에 걸쳐 1억 가까이 받기도</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001418643?ntype=RANKING">이진숙 "'2인 체제'로 방송사 재허가 심사 강행"‥국회의장 지적에는 발끈</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/056/0011932553?ntype=RANKING">만취 상태로 차 몰고 도주한 여성 체포…인천 부평역 앞 ‘땅꺼짐’</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001418648?ntype=RANKING">한덕수 "발표만 했을 뿐"‥조목조목 반박한 헌재</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/056/0011932376?ntype=RANKING">사업 실패가 비극으로…일가족 5명 살해 혐의 50대 가장 체포</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001418670?ntype=RANKING">비상구 개방 두 차례 시도했지만 저지 실패‥"앞자리 승객이 제압"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/056/0011932575?ntype=RANKING">“국민보다 국회의원이 더 혜택 봤다”…윤석열 정부 ‘종부세 완화’ [취재후]</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001418719?ntype=RANKING">이재명, 타임지 '가장 영향력 있는 100인' 선정</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/056/0011932609?ntype=RANKING">하루에 세 계절? 김천 일교차 26도 ‘극한 날씨’</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001418649?ntype=RANKING">본안 판단은 언제?‥대선 넘기면 '새 대통령'이 지명</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
