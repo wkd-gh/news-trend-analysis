@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-04-23)
+## 📅 Latest News (2025-04-24)
 
-📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 3개 | ⚪ 중립 뉴스: 402개**  
+📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 408개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/052/0002183884?ntype=RANKING">[단독] "소방관에게 불량 장화를 납품했습니다"</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005582601?ntype=RANKING">"주말에 먹으려 했다가 '화들짝'"…'치사율 50%' 치명적 감염증 첫 검출</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/052/0002183914?ntype=RANKING">프란치스코 교황, 무보수 봉사 인생...남긴 재산은 '14만 원'</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005582678?ntype=RANKING">"불 타는 모습 지켜봐" 10년 모아 산 4억짜리 페라리, 인수 1시간 만에 '활활'</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/052/0002183803?ntype=RANKING">국민의힘 '공약'이 안 보인다? "윤·한덕수·다자구도 원인"</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005582101?ntype=RANKING">"직장인이 부럽습니다"…'365일, 쉴 수가 없다' 17만 사장님 고충</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/052/0002183779?ntype=RANKING">대법, 전합 회부 당일 첫 심리...대선 전 결론 여부 주목</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005582700?ntype=RANKING">영월 산골서 마이바흐로 미행하다 쾅…가해자는 피해자 여친 남동생이었다</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/052/0002183881?ntype=RANKING">오늘 성베드로 대성당 운구..."유흥식 추기경, 유력 12명 포함"</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005582365?ntype=RANKING">"마통으로 버텼는데…부고 문자 눌렀다가 5000만원 털렸어요"</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
