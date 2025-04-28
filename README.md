@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-04-27)
+## 📅 Latest News (2025-04-28)
 
-📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 3개 | ⚪ 중립 뉴스: 394개**  
+📊 **🟢 긍정 뉴스: 3개 | 🔴 부정 뉴스: 4개 | ⚪ 중립 뉴스: 383개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/055/0001252938?ntype=RANKING">둘이 갔다 홀로 돌아온 인제 실종 사건…그알 제작진 암매장 추정 장소 찾았다</a></td>
+        <td><a href="https:///n.news.naver.com/article/015/0005124673?ntype=RANKING">"트럼프도 못 막아"…'그야말로 잭팟' 美서 대박난 사업 [종목+]</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/055/0001252905?ntype=RANKING">트럼프 "시진핑과 통화"…한국 콕 집어 "군사비 수조 원"</a></td>
+        <td><a href="https:///n.news.naver.com/article/015/0005124697?ntype=RANKING">'부모님 식당' 아니라더니…풍자, 뒤통수 제대로 맞았다</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/055/0001252909?ntype=RANKING">유언대로 소박한 무덤 공개…6㎞ 거리 운구해 안식처로</a></td>
+        <td><a href="https:///n.news.naver.com/article/015/0005124682?ntype=RANKING">'감히 딴 살림 차려?'…퇴사 한 달 만에 날아온 '고소 폭탄' [김대영의 노무스쿨]</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/055/0001252903?ntype=RANKING">"'어어' 대피하던 중 흙 쏟아져 매몰"…1명 사망 1명 부상</a></td>
+        <td><a href="https:///n.news.naver.com/article/015/0005124648?ntype=RANKING">"더는 못 버틸 지경"…영화만 찍던 배우가 고백한 '충격' 현실 [김소연의 엔터비즈]</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/055/0001252930?ntype=RANKING">'인제 산불' 진화 작업, 헬기 35대 투입 재개…진화율 98%</a></td>
+        <td><a href="https:///n.news.naver.com/article/015/0005124684?ntype=RANKING">재고도 없다던데…SKT 유심 교체, 헛걸음질 안 하려면</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
