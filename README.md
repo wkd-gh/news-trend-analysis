@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-04-28)
+## 📅 Latest News (2025-04-29)
 
-📊 **🟢 긍정 뉴스: 3개 | 🔴 부정 뉴스: 4개 | ⚪ 중립 뉴스: 383개**  
+📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 3개 | ⚪ 중립 뉴스: 397개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/015/0005124673?ntype=RANKING">"트럼프도 못 막아"…'그야말로 잭팟' 美서 대박난 사업 [종목+]</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003437365?ntype=RANKING">엘베 손잡이에 두 아들 올라갔는데 '찰칵'…김나영 "죄송"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/015/0005124697?ntype=RANKING">'부모님 식당' 아니라더니…풍자, 뒤통수 제대로 맞았다</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003437246?ntype=RANKING">이재명, 수면제 수십알 삼켰다…아버지 죽도록 미웠던 17살 [대선주자 탐구]</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/015/0005124682?ntype=RANKING">'감히 딴 살림 차려?'…퇴사 한 달 만에 날아온 '고소 폭탄' [김대영의 노무스쿨]</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003437372?ntype=RANKING">이재명 "기재부 왕노릇" 다음날…민주당 '기재부 쪼개기' 띄웠다</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/015/0005124648?ntype=RANKING">"더는 못 버틸 지경"…영화만 찍던 배우가 고백한 '충격' 현실 [김소연의 엔터비즈]</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003437274?ntype=RANKING">88만 유튜버 "유심해킹, 도둑에 집 비번 털린것과 같아" 주장</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/015/0005124684?ntype=RANKING">재고도 없다던데…SKT 유심 교체, 헛걸음질 안 하려면</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003437370?ntype=RANKING">"요즘 바다에 큰 문제 있다"…서해 덮친 '냉수'에 어민들 비명</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
