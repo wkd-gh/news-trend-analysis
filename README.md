@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-05-05)
+## 📅 Latest News (2025-05-06)
 
-📊 **🟢 긍정 뉴스: 5개 | 🔴 부정 뉴스: 1개 | ⚪ 중립 뉴스: 385개**  
+📊 **🟢 긍정 뉴스: 6개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 383개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/277/0005587728?ntype=RANKING">"이게 전설 속에서 나온 뱀?"…10만 분의 1 확률로 태어난 '두 머리 가진 뱀'</a></td>
+        <td><a href="https:///n.news.naver.com/article/648/0000035883?ntype=RANKING">[현명한 투자자는 지금]④시가배당률 15%…저금리 시대 '리츠'의 매력</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/277/0005587714?ntype=RANKING">"3만원짜리 라지 피자 누가 먹나"…국내 진출 40년 만에 '멸종 위기' 피자헛</a></td>
+        <td><a href="https:///n.news.naver.com/article/648/0000035882?ntype=RANKING">[집, 대선에 묻다]②다주택 규제가 낳은 '똘똘한 괴물'</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/277/0005587731?ntype=RANKING">"연휴가 무너졌다…5분마다 화장실행" 하루 400명씩 환자 쏟아진 '이 병'</a></td>
+        <td><a href="https:///n.news.naver.com/article/648/0000035884?ntype=RANKING">이재명, 바이오 잘사니즘…김문수, 유망수출 산업 지정</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/277/0005587794?ntype=RANKING">"외교 선물로 한 마리씩 주자"…한국에선 민폐동물, 세계에선 귀하신 몸 '고라니'[뉴스설참]</a></td>
+        <td><a href="https:///n.news.naver.com/article/648/0000035879?ntype=RANKING">"K뷰티로 승부 건다"…새롭게 떠오르는 인도 시장</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/277/0005587708?ntype=RANKING">황금연휴에 놀러 다니는 건 외국인 뿐…고급 호텔·뷔페서 실종된 현지인들[日요일日문화]</a></td>
+        <td><a href="https:///n.news.naver.com/article/648/0000035877?ntype=RANKING">1년 짜리 '펫보험', 이마저 가입 거절당할 수 있다고?</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
