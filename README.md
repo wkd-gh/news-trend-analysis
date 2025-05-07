@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-05-06)
+## 📅 Latest News (2025-05-07)
 
-📊 **🟢 긍정 뉴스: 6개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 383개**  
+📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 393개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/648/0000035883?ntype=RANKING">[현명한 투자자는 지금]④시가배당률 15%…저금리 시대 '리츠'의 매력</a></td>
+        <td><a href="https:///n.news.naver.com/article/057/0001884938?ntype=RANKING">문다혜, 사기 혐의 입건… '자선 모금액 미전달' 의혹</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/648/0000035882?ntype=RANKING">[집, 대선에 묻다]②다주택 규제가 낳은 '똘똘한 괴물'</a></td>
+        <td><a href="https:///n.news.naver.com/article/057/0001884958?ntype=RANKING">"회식 때 결제, 간이 영수증도"…송가인 '매니저 사칭' 사기 주의보</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/648/0000035884?ntype=RANKING">이재명, 바이오 잘사니즘…김문수, 유망수출 산업 지정</a></td>
+        <td><a href="https:///n.news.naver.com/article/057/0001884946?ntype=RANKING">백종원 "모든 방송활동 중단"…경찰 '덮죽 의혹' 추가 입건</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/648/0000035879?ntype=RANKING">"K뷰티로 승부 건다"…새롭게 떠오르는 인도 시장</a></td>
+        <td><a href="https:///n.news.naver.com/article/057/0001884950?ntype=RANKING">금값 폭등으로 일어난 비극…페루 금광서 보안요원 13명 피살</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/648/0000035877?ntype=RANKING">1년 짜리 '펫보험', 이마저 가입 거절당할 수 있다고?</a></td>
+        <td><a href="https:///n.news.naver.com/article/057/0001884949?ntype=RANKING">체코 원전 계약 중단에…한수원 "경쟁사 시도 유감, 결정 존중"</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
