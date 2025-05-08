@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-05-07)
+## 📅 Latest News (2025-05-08)
 
-📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 393개**  
+📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 4개 | ⚪ 중립 뉴스: 399개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/057/0001884938?ntype=RANKING">문다혜, 사기 혐의 입건… '자선 모금액 미전달' 의혹</a></td>
+        <td><a href="https:///n.news.naver.com/article/082/0001324693?ntype=RANKING">[속보] 김문수, 오전 8시30분 긴급 회견…'단일화 입장' 발표 주목</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/057/0001884958?ntype=RANKING">"회식 때 결제, 간이 영수증도"…송가인 '매니저 사칭' 사기 주의보</a></td>
+        <td><a href="https:///n.news.naver.com/article/082/0001324692?ntype=RANKING">"이 남자 공무원 하는 거 답답해 사주 공부" 한덕수 부인 육성 인터뷰 공개</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/057/0001884946?ntype=RANKING">백종원 "모든 방송활동 중단"…경찰 '덮죽 의혹' 추가 입건</a></td>
+        <td><a href="https:///n.news.naver.com/article/082/0001324699?ntype=RANKING">[속보] 김문수 "당 지도부, 대통령 후보인 저를 끌어내리려 작업"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/057/0001884950?ntype=RANKING">금값 폭등으로 일어난 비극…페루 금광서 보안요원 13명 피살</a></td>
+        <td><a href="https:///n.news.naver.com/article/082/0001324674?ntype=RANKING">“바다 품은 북항 야구장, 부산 넘어 한국의 스포츠 랜드마크 될 것”</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/057/0001884949?ntype=RANKING">체코 원전 계약 중단에…한수원 "경쟁사 시도 유감, 결정 존중"</a></td>
+        <td><a href="https:///n.news.naver.com/article/082/0001324681?ntype=RANKING">거대 우수관로에 동강 난 해수욕장, 이대로 7월 첫 개장?</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
