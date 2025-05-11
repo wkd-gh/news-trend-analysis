@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-05-10)
+## 📅 Latest News (2025-05-11)
 
-📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 4개 | ⚪ 중립 뉴스: 405개**  
+📊 **🟢 긍정 뉴스: 1개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 398개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005489580?ntype=RANKING">“지금 사두면 두배, 연말에 3억까지 오를것”...장밋빛전망 나온 비트코인, 근거는?</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001423410?ntype=RANKING">김문수 복귀‥당원투표 부결에 '강제 교체' 무산</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005489926?ntype=RANKING">“회식 명목 고액 주문 뒤 ‘노쇼’”…남궁민 소속사, 직원 사칭 주의 당부</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001423382?ntype=RANKING">"새벽 3시 국회 찾아와 32종 서류 내라"‥한 사람을 위한 공고?</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005489921?ntype=RANKING">“방송활동 다 접겠다” 초강수에도…‘장사의 신’ 백종원 향한 민심 싸늘 [이번주인공]</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001423384?ntype=RANKING">후보 뽑기도 전에 "단일화‥정치적 계산이 부른 참사</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005489929?ntype=RANKING">하차하다 발 헛디뎠는데…마을버스 바퀴에 깔려 숨진 20대女</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001423416?ntype=RANKING">김문수, 오늘 선관위 찾아 후보 등록‥"모든 것은 제자리로"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/009/0005489629?ntype=RANKING">“산호초 위에서 나체로”…태국서 다이버들이 수중 성관계, 누리꾼 ‘경악’</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001423412?ntype=RANKING">인도-파키스탄, 국제사회 중재에 극적 휴전 합의</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
