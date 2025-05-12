@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-05-11)
+## 📅 Latest News (2025-05-12)
 
-📊 **🟢 긍정 뉴스: 1개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 398개**  
+📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 1개 | ⚪ 중립 뉴스: 388개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/214/0001423410?ntype=RANKING">김문수 복귀‥당원투표 부결에 '강제 교체' 무산</a></td>
+        <td><a href="https:///n.news.naver.com/article/366/0001076285?ntype=RANKING">9억대 땅 양도소득세 9000만원인 줄 알았더니 2.7억...大法 “매수자가 세금 다 내야”</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/214/0001423382?ntype=RANKING">"새벽 3시 국회 찾아와 32종 서류 내라"‥한 사람을 위한 공고?</a></td>
+        <td><a href="https:///n.news.naver.com/article/366/0001076281?ntype=RANKING">8000원에서 23만원으로… 파크시스템스, 국장서 보기 드문 ‘장기 우상향’ 비결은</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/214/0001423384?ntype=RANKING">후보 뽑기도 전에 "단일화‥정치적 계산이 부른 참사</a></td>
+        <td><a href="https:///n.news.naver.com/article/366/0001076286?ntype=RANKING">‘5조 몸값’ 테일러메이드, 내달 매각 본격화… 티저레터 배포 예정</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/214/0001423416?ntype=RANKING">김문수, 오늘 선관위 찾아 후보 등록‥"모든 것은 제자리로"</a></td>
+        <td><a href="https:///n.news.naver.com/article/366/0001076122?ntype=RANKING">삼성전자, 세계 최초 ‘1초에 500번 이미지 표시’ OLED 모니터 출시</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/214/0001423412?ntype=RANKING">인도-파키스탄, 국제사회 중재에 극적 휴전 합의</a></td>
+        <td><a href="https:///n.news.naver.com/article/366/0001076291?ntype=RANKING">프랑스서 韓 여성 스트리머 욕설 피해... “검찰, 인종·성차별 혐의 수사</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
