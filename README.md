@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-05-13)
+## 📅 Latest News (2025-05-14)
 
-📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 0개 | ⚪ 중립 뉴스: 401개**  
+📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 401개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/015/0005130960?ntype=RANKING">한달 만에 집값 1억 '뚝'…"사기 당했다" 집주인들 '분통'</a></td>
+        <td><a href="https:///n.news.naver.com/article/648/0000036112?ntype=RANKING">신규가입 중단된 SKT "갤럭시 S25 엣지, 기기변경만 가능"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/015/0005130962?ntype=RANKING">자고 일어났더니 '돈복사 돼 있네'…서학개미 '환호' 터졌다</a></td>
+        <td><a href="https:///n.news.naver.com/article/648/0000036127?ntype=RANKING">[거버넌스워치] 딱 4억으로 510억 ‘꿀 빤’ 아세아 3세들…중심엔 이훈범 회장</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/015/0005130979?ntype=RANKING">"'갑질폭로' PD와 대화 나눴지만…" 백종원, 입 열었다</a></td>
+        <td><a href="https:///n.news.naver.com/article/648/0000036128?ntype=RANKING">[인사이드스토리]한국콜마, 오빠는 왜 동생 회사 다잡기 나섰나</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/015/0005130967?ntype=RANKING">美 명문대 출신 '힙합거물'이 난잡한 파티를…'디디 게이트' 재판 시작</a></td>
+        <td><a href="https:///n.news.naver.com/article/648/0000036124?ntype=RANKING">빗썸, '차익거래' 첫 시도…코인 가격차 줄어들까</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/015/0005130976?ntype=RANKING">커피 마시며 북한 주민들 구경…입소문에 외국인도 '우르르'</a></td>
+        <td><a href="https:///n.news.naver.com/article/648/0000036130?ntype=RANKING">제약바이오 1Q 성적 가른 키워드 '시밀러·신약'</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
