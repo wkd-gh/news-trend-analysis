@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-05-15)
+## 📅 Latest News (2025-05-16)
 
-📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 406개**  
+📊 **🟢 긍정 뉴스: 3개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 402개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/215/0001209267?ntype=RANKING">"잠 들기 어렵네" 이차전지 개미들…"이번엔 AMPC 리스크"</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001424444?ntype=RANKING">[단독] 尹, 휴대폰 바꾼 뒤 '고성국'에게 첫 문자‥대국민담화도 고 씨 주문대로?</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/215/0001209271?ntype=RANKING">이경실의 이촌동 아파트 경매에...시작가 25억원</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001424494?ntype=RANKING">김건희 일가 노인학대 고발 사건 경기북부청에 배당</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/215/0001209276?ntype=RANKING">한화호텔, '아워홈' 인수…"새우가 고래 삼켰다"</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001424516?ntype=RANKING">배달원, 음식 꺼내 쏟아진 척 위장</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/215/0001209236?ntype=RANKING">[단독] 홍원식 전 남양유업 회장, 대치동 빌딩 400억에 샀다</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001424515?ntype=RANKING">부산 롯데월드 놀이기구 굉음·진동‥"운행 중단"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/215/0001209228?ntype=RANKING">"비염이라더니"…보험금 줄줄 샌다</a></td>
+        <td><a href="https:///n.news.naver.com/article/214/0001424441?ntype=RANKING">[단독] 계엄 이후 尹, 추경호·나경원과 잇단 통화</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
