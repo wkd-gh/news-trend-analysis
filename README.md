@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-05-16)
+## 📅 Latest News (2025-05-17)
 
-📊 **🟢 긍정 뉴스: 3개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 402개**  
+📊 **🟢 긍정 뉴스: 3개 | 🔴 부정 뉴스: 4개 | ⚪ 중립 뉴스: 403개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/214/0001424444?ntype=RANKING">[단독] 尹, 휴대폰 바꾼 뒤 '고성국'에게 첫 문자‥대국민담화도 고 씨 주문대로?</a></td>
+        <td><a href="https:///n.news.naver.com/article/654/0000121542?ntype=RANKING">강릉 내곡동 건설현장서 50대 추락...강원도 사건사고 잇따라</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/214/0001424494?ntype=RANKING">김건희 일가 노인학대 고발 사건 경기북부청에 배당</a></td>
+        <td><a href="https:///n.news.naver.com/article/654/0000121547?ntype=RANKING">횡성 유세 현장 충돌…국힘 "폭력 난입" vs 민주 "대화 시도"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/214/0001424516?ntype=RANKING">배달원, 음식 꺼내 쏟아진 척 위장</a></td>
+        <td><a href="https:///n.news.naver.com/article/654/0000121539?ntype=RANKING">최북단 고성서 '정정당당 김문수 후보' 지지 호소</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/214/0001424515?ntype=RANKING">부산 롯데월드 놀이기구 굉음·진동‥"운행 중단"</a></td>
+        <td><a href="https:///n.news.naver.com/article/654/0000121525?ntype=RANKING">김병지 강원FC 대표 "아들 토트넘 연수 특혜 논란 사과"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/214/0001424441?ntype=RANKING">[단독] 계엄 이후 尹, 추경호·나경원과 잇단 통화</a></td>
+        <td><a href="https:///n.news.naver.com/article/654/0000121541?ntype=RANKING">이재명 민주당 후보, 강원 18개 시·군별 '우리동네 공약' 공개</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
