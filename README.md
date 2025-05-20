@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-05-19)
+## 📅 Latest News (2025-05-20)
 
-📊 **🟢 긍정 뉴스: 5개 | 🔴 부정 뉴스: 1개 | ⚪ 중립 뉴스: 387개**  
+📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 395개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/016/0002472708?ntype=RANKING">“방송사 발칵 뒤집혔다” 재미없어 망한 드라마…넷플릭스 1위 시끌벅적</a></td>
+        <td><a href="https:///n.news.naver.com/article/023/0003906119?ntype=RANKING">이대로면 ‘득표율 60%’ 가능성... 절대권력 향해 가는 이재명</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/016/0002472779?ntype=RANKING">이재명 50.2% 김문수 35.6% 이준석 8.7%[리얼미터]</a></td>
+        <td><a href="https:///n.news.naver.com/article/023/0003906076?ntype=RANKING">美서 뇌출혈 수술 받은 안재욱  “병원비 5억원 듣고 또 쓰러질 뻔”</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/016/0002472612?ntype=RANKING">210만원 지하철 요금 고지서 날벼락…50대 아저씨가 청년 기동카 썼다 [세상&]</a></td>
+        <td><a href="https:///n.news.naver.com/article/023/0003906161?ntype=RANKING">“금 사려는 손님 몰려 예약받을 정도”... 맨해튼 다이아몬드 거리에 금테크 인파</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/016/0002472695?ntype=RANKING">“무서워서 속옷 더 챙겨야” 갑자기 ‘부글부글’ 설사…환자 증가 ‘비상’</a></td>
+        <td><a href="https:///n.news.naver.com/article/023/0003906173?ntype=RANKING">트럼프 “우크라 종전 협상, 진전 없으면 물러날 것”</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/016/0002472753?ntype=RANKING">친구 7명이 8만원씩 걷어 선물 샀는데…“집들이 음식이 회 한 접시네요”</a></td>
+        <td><a href="https:///n.news.naver.com/article/023/0003906163?ntype=RANKING">[단독] 블루칼라 시대 왔다… 직업계高로 몰리는 Z세대</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
