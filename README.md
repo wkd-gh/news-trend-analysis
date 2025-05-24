@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-05-23)
+## 📅 Latest News (2025-05-24)
 
-📊 **🟢 긍정 뉴스: 2개 | 🔴 부정 뉴스: 4개 | ⚪ 중립 뉴스: 398개**  
+📊 **🟢 긍정 뉴스: 3개 | 🔴 부정 뉴스: 0개 | ⚪ 중립 뉴스: 410개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/008/0005198115?ntype=RANKING">아파트 빨리 계약하면 호구?…눈물의 할인 분양, 입주민은 분노 폭발</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003443124?ntype=RANKING">경매낙찰 아파트 시신 나왔다…해외여행 다니던 84년생 비극</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/008/0005198119?ntype=RANKING">[속보]美, 주한미군 4500명 괌 등에 이전 배치 검토-WSJ</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003443109?ntype=RANKING">'43억 횡령' 황정음, 전 남편이 18억 부동산 가압류…무슨 일</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/008/0005198137?ntype=RANKING">아들 결혼할 때 목돈 줬는데 연락 뚝…빚만 떠안은 아버지 "서운해"</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003443123?ntype=RANKING">전남 신안 "인구 5만 넘을라" 걱정한다, 사람 몰리게 한 이 연금</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/008/0005198168?ntype=RANKING">초음파 사진 진실은?…손흥민 협박 여성 다녀간 병원 '압수수색'</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003443108?ntype=RANKING">李 "헐뜯기 많아져" 金 "쏘면 명중"…2차토론 뒤 소감 물으니</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/008/0005198167?ntype=RANKING">양치 후 '이것' 습관처럼 썼는데…"치아 건강 망친다" 경고</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003443118?ntype=RANKING">"아이브 온대" 30만원대 암표도 떴다, 대학축제 웃픈 자화상</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
