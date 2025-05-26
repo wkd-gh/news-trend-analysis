@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-05-25)
+## 📅 Latest News (2025-05-26)
 
-📊 **🟢 긍정 뉴스: 5개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 397개**  
+📊 **🟢 긍정 뉴스: 1개 | 🔴 부정 뉴스: 6개 | ⚪ 중립 뉴스: 386개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/055/0001260815?ntype=RANKING">응급실에 속속 도착한 시신…가자지구 의사, 폭격에 자녀 9명 잃어</a></td>
+        <td><a href="https:///n.news.naver.com/article/082/0001327413?ntype=RANKING">장애 의붓아들 학대해 숨지게 한 30대, 생후 일주일 된 친자식은 불법 입양 보내</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/055/0001260811?ntype=RANKING">피해자라던 대표, 멍투성이 아내…'경호업체 성범죄 사건' 진실은?</a></td>
+        <td><a href="https:///n.news.naver.com/article/082/0001327405?ntype=RANKING">부울경 올여름 또 역대급 폭염 온다</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/055/0001260773?ntype=RANKING">부정선거론 꺼낸 적 없다는데…SNS 올린 글 보니 [사실은]</a></td>
+        <td><a href="https:///n.news.naver.com/article/082/0001327391?ntype=RANKING">최고급 코스타리카 커피 향기에 둘러싸인 부산 영도</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/055/0001260767?ntype=RANKING">이재명 "부정선거면 내가 이겼어야…화끈하게 7%p로"</a></td>
+        <td><a href="https:///n.news.naver.com/article/082/0001327401?ntype=RANKING">‘똘똘한 한 채’ 몰리는 서울 집값 상승 지속… 부산은 내리막</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/055/0001260821?ntype=RANKING">[속보] 김문수 "대통령, 당무 개입 원천 차단"</a></td>
+        <td><a href="https:///n.news.naver.com/article/082/0001327309?ntype=RANKING">“세 쌍둥이 태어났다” 사하구 ‘경사’</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
