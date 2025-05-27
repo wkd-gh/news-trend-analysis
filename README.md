@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-05-26)
+## 📅 Latest News (2025-05-27)
 
-📊 **🟢 긍정 뉴스: 1개 | 🔴 부정 뉴스: 6개 | ⚪ 중립 뉴스: 386개**  
+📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 4개 | ⚪ 중립 뉴스: 392개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/082/0001327413?ntype=RANKING">장애 의붓아들 학대해 숨지게 한 30대, 생후 일주일 된 친자식은 불법 입양 보내</a></td>
+        <td><a href="https:///n.news.naver.com/article/005/0001779130?ntype=RANKING">리버풀 EPL 우승 퍼레이드 현장에 승합차 돌진…47명 부상</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/082/0001327405?ntype=RANKING">부울경 올여름 또 역대급 폭염 온다</a></td>
+        <td><a href="https:///n.news.naver.com/article/005/0001779035?ntype=RANKING">‘남성암 1위’ 예측 전립선암… 뼈까지 전이땐 5년 생존율 49%</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/082/0001327391?ntype=RANKING">최고급 코스타리카 커피 향기에 둘러싸인 부산 영도</a></td>
+        <td><a href="https:///n.news.naver.com/article/005/0001779041?ntype=RANKING">“단일화 가능성 0%” 못 박은 이준석… 국힘서도 자강론 확산</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/082/0001327401?ntype=RANKING">‘똘똘한 한 채’ 몰리는 서울 집값 상승 지속… 부산은 내리막</a></td>
+        <td><a href="https:///n.news.naver.com/article/005/0001779036?ntype=RANKING">“월 500만원 간병 파산 지경”… ‘지속가능한 돌봄’ 요구 커져</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/082/0001327309?ntype=RANKING">“세 쌍둥이 태어났다” 사하구 ‘경사’</a></td>
+        <td><a href="https:///n.news.naver.com/article/005/0001779017?ntype=RANKING">서울·충청 지지율 요동, 조사마다 엇갈려… 청년층은 3파전</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
