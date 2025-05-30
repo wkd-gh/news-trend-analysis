@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-05-29)
+## 📅 Latest News (2025-05-30)
 
-📊 **🟢 긍정 뉴스: 1개 | 🔴 부정 뉴스: 0개 | ⚪ 중립 뉴스: 407개**  
+📊 **🟢 긍정 뉴스: 3개 | 🔴 부정 뉴스: 7개 | ⚪ 중립 뉴스: 395개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/052/0002199110?ntype=RANKING">[속보] 미국 법원, 트럼프 상호관세 발효에 제동...무역협상 전면 중단?</a></td>
+        <td><a href="https:///n.news.naver.com/article/020/0003638228?ntype=RANKING">커피 마시면 뇌에 무슨 일이?…수면 중 뇌 변화 알아내</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/052/0002199037?ntype=RANKING">오늘부터 사전 투표...이재명 '신촌' vs 김문수 '계양'</a></td>
+        <td><a href="https:///n.news.naver.com/article/020/0003638353?ntype=RANKING">이재명, 中 대만침공 질문에 “외계인 지구 침공때 답 생각해볼 것”</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/052/0002198984?ntype=RANKING">서울 투표함 회송 무장경찰 6천 명 투입..."공정 선거 관리"</a></td>
+        <td><a href="https:///n.news.naver.com/article/020/0003638355?ntype=RANKING">선관위 또 부실관리…투표용지 들고 외부서 밥먹고 오기도</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/052/0002199106?ntype=RANKING">21대 대선 사전투표 첫날...아침부터 유권자 발길 이어져</a></td>
+        <td><a href="https:///n.news.naver.com/article/020/0003638382?ntype=RANKING">“두피 마사지로 리프팅 효과” 이시영이 공개한 비결은</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/052/0002199084?ntype=RANKING">대선 사전투표 일제히 시작...이 시각 대구</a></td>
+        <td><a href="https:///n.news.naver.com/article/020/0003638284?ntype=RANKING">“맨발로 100대 명산 도전… 10년은 더 젊어졌어요”[양종구의 100세 시대 건강법]</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
