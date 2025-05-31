@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-05-30)
+## 📅 Latest News (2025-05-31)
 
-📊 **🟢 긍정 뉴스: 3개 | 🔴 부정 뉴스: 7개 | ⚪ 중립 뉴스: 395개**  
+📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 405개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/020/0003638228?ntype=RANKING">커피 마시면 뇌에 무슨 일이?…수면 중 뇌 변화 알아내</a></td>
+        <td><a href="https:///n.news.naver.com/article/052/0002200052?ntype=RANKING">사전투표 34.74%..."내란종식 열망" "반전 시작"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/020/0003638353?ntype=RANKING">이재명, 中 대만침공 질문에 “외계인 지구 침공때 답 생각해볼 것”</a></td>
+        <td><a href="https:///n.news.naver.com/article/052/0002200137?ntype=RANKING">단일화 불발에 등장한 '준찍명·저수지론'...효과는?</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/020/0003638355?ntype=RANKING">선관위 또 부실관리…투표용지 들고 외부서 밥먹고 오기도</a></td>
+        <td><a href="https:///n.news.naver.com/article/052/0002200163?ntype=RANKING">[속보] 트럼프 "외국산 철강 관세 25→50%로 인상할 것"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/020/0003638382?ntype=RANKING">“두피 마사지로 리프팅 효과” 이시영이 공개한 비결은</a></td>
+        <td><a href="https:///n.news.naver.com/article/052/0002200106?ntype=RANKING">CCTV로 본 초계기 마지막 순간...선회하다 '수직 추락'</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/020/0003638284?ntype=RANKING">“맨발로 100대 명산 도전… 10년은 더 젊어졌어요”[양종구의 100세 시대 건강법]</a></td>
+        <td><a href="https:///n.news.naver.com/article/052/0002200136?ntype=RANKING">이재명, '회복과 성장'으로 '9부 능선' 넘나</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
