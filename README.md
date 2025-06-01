@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-05-31)
+## 📅 Latest News (2025-06-01)
 
-📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 405개**  
+📊 **🟢 긍정 뉴스: 1개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 405개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/052/0002200052?ntype=RANKING">사전투표 34.74%..."내란종식 열망" "반전 시작"</a></td>
+        <td><a href="https:///n.news.naver.com/article/008/0005201989?ntype=RANKING">[단독]MG손보 영업정지 불똥, 새마을금고 비대면 전세대출 막혔다</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/052/0002200137?ntype=RANKING">단일화 불발에 등장한 '준찍명·저수지론'...효과는?</a></td>
+        <td><a href="https:///n.news.naver.com/article/008/0005202001?ntype=RANKING">"추진력은 이재명" "깨끗한 김문수" "이준석이 낫다"…혼돈의 서울</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/052/0002200163?ntype=RANKING">[속보] 트럼프 "외국산 철강 관세 25→50%로 인상할 것"</a></td>
+        <td><a href="https:///n.news.naver.com/article/008/0005202010?ntype=RANKING">'곰팡이'로 뒤덮힌 모습 '충격'…뒤늦게 폐기된 빽다방 디저트</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/052/0002200106?ntype=RANKING">CCTV로 본 초계기 마지막 순간...선회하다 '수직 추락'</a></td>
+        <td><a href="https:///n.news.naver.com/article/008/0005202009?ntype=RANKING">"마을 덮친다" 그 경고, 현실 됐다…90% 사라진 마을, 비극 원인은[이·세·기]</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/052/0002200136?ntype=RANKING">이재명, '회복과 성장'으로 '9부 능선' 넘나</a></td>
+        <td><a href="https:///n.news.naver.com/article/008/0005201991?ntype=RANKING">"조종법 몰라요" 아무것도 못한 조종사…228명 숨진 항공 참사[뉴스속오늘]</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
