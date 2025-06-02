@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-06-01)
+## 📅 Latest News (2025-06-02)
 
-📊 **🟢 긍정 뉴스: 1개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 405개**  
+📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 3개 | ⚪ 중립 뉴스: 390개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/008/0005201989?ntype=RANKING">[단독]MG손보 영업정지 불똥, 새마을금고 비대면 전세대출 막혔다</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003445171?ntype=RANKING">발송비만 370억인데…"뜯지도 않고 버렸다" 선거공보물 딜레마</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/008/0005202001?ntype=RANKING">"추진력은 이재명" "깨끗한 김문수" "이준석이 낫다"…혼돈의 서울</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003445107?ntype=RANKING">짐 로저스 논란…김진향 "이재명 지지는 사실" 김문수 "이건 사기"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/008/0005202010?ntype=RANKING">'곰팡이'로 뒤덮힌 모습 '충격'…뒤늦게 폐기된 빽다방 디저트</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003445061?ntype=RANKING">"20대女 출입금지, 황당하지 않나"…'안경 앵커' 임현주 소신 발언 왜</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/008/0005202009?ntype=RANKING">"마을 덮친다" 그 경고, 현실 됐다…90% 사라진 마을, 비극 원인은[이·세·기]</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003445172?ntype=RANKING">이재명 "내란 세력 엄중 처벌"…김문수 "죄인, 교도소 편할 것"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/008/0005201991?ntype=RANKING">"조종법 몰라요" 아무것도 못한 조종사…228명 숨진 항공 참사[뉴스속오늘]</a></td>
+        <td><a href="https:///n.news.naver.com/article/025/0003445198?ntype=RANKING">홍준표 "대선 불참은 처음…누가 정권 잡더라도 한국 안 망가져"</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
