@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-06-02)
+## 📅 Latest News (2025-06-03)
 
-📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 3개 | ⚪ 중립 뉴스: 390개**  
+📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 0개 | ⚪ 중립 뉴스: 398개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/025/0003445171?ntype=RANKING">발송비만 370억인데…"뜯지도 않고 버렸다" 선거공보물 딜레마</a></td>
+        <td><a href="https:///n.news.naver.com/article/018/0006030050?ntype=RANKING">유시민 옹호한 김어준 “김문수·설난영 논평할 자격 있어…배신 따져야”</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/025/0003445107?ntype=RANKING">짐 로저스 논란…김진향 "이재명 지지는 사실" 김문수 "이건 사기"</a></td>
+        <td><a href="https:///n.news.naver.com/article/018/0006029982?ntype=RANKING">“너 때문에 죽을 뻔” 화내자…5호선 방화범 “안 죽었잖아”</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/025/0003445061?ntype=RANKING">"20대女 출입금지, 황당하지 않나"…'안경 앵커' 임현주 소신 발언 왜</a></td>
+        <td><a href="https:///n.news.naver.com/article/018/0006030101?ntype=RANKING">"나라 안정됐으면"…`대선 오픈런` 시민들, 선거 열기 `후끈`[르포]</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/025/0003445172?ntype=RANKING">이재명 "내란 세력 엄중 처벌"…김문수 "죄인, 교도소 편할 것"</a></td>
+        <td><a href="https:///n.news.naver.com/article/018/0006030105?ntype=RANKING">21대 대선 오전 8시 투표율 5.7%…대구 7.1% 서울 5.3%</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/025/0003445198?ntype=RANKING">홍준표 "대선 불참은 처음…누가 정권 잡더라도 한국 안 망가져"</a></td>
+        <td><a href="https:///n.news.naver.com/article/018/0006030085?ntype=RANKING">이재명 vs 김문수, 누가 이기든 해야할 일 셋[전문기자칼럼]</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
