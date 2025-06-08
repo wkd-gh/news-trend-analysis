@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-06-07)
+## 📅 Latest News (2025-06-08)
 
-📊 **🟢 긍정 뉴스: 3개 | 🔴 부정 뉴스: 3개 | ⚪ 중립 뉴스: 398개**  
+📊 **🟢 긍정 뉴스: 1개 | 🔴 부정 뉴스: 4개 | ⚪ 중립 뉴스: 392개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/023/0003909676?ntype=RANKING">술 취해 도로 난입, 거리는 오물 범벅… 아수라장 된 ‘야장’</a></td>
+        <td><a href="https:///n.news.naver.com/article/023/0003909772?ntype=RANKING">“F-35보다 B-52가 더 무섭다”... 중국군 워게임 의외의 결과</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/023/0003909718?ntype=RANKING">“정경 분리 시대 끝나…한미 동맹이 1순위다, 美에 분명히 말해야”</a></td>
+        <td><a href="https:///n.news.naver.com/article/023/0003909659?ntype=RANKING">윤석열이 이재명 대통령에게 남긴 ‘세 가지 교훈’</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/023/0003909665?ntype=RANKING">예약 서버 마비, 200m 대기줄… 대통령 오기전에 ‘靑 오픈런’</a></td>
+        <td><a href="https:///n.news.naver.com/article/023/0003909774?ntype=RANKING">트럼프 “머스크, 대통령직 모욕... 그와의 관계는 끝났다”</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/023/0003909674?ntype=RANKING">총알 480발·영하 32도 견딘다… 원조 험비 넘은 ‘K험비’</a></td>
+        <td><a href="https:///n.news.naver.com/article/023/0003909781?ntype=RANKING">30kg 바벨 원판 목에 걸고 다닌 유기견… 견주 “마당에 묶어둘 곳 없어서” 해명</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/023/0003909679?ntype=RANKING">“대소변 때마다 문자를요?”… 교권 사각지대 보육교사들</a></td>
+        <td><a href="https:///n.news.naver.com/article/023/0003909657?ntype=RANKING">요즘 MZ 직장인, 회식을 먼저 요구한다는데</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
