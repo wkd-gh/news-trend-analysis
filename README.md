@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-06-08)
+## 📅 Latest News (2025-06-09)
 
-📊 **🟢 긍정 뉴스: 1개 | 🔴 부정 뉴스: 4개 | ⚪ 중립 뉴스: 392개**  
+📊 **🟢 긍정 뉴스: 6개 | 🔴 부정 뉴스: 1개 | ⚪ 중립 뉴스: 390개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/023/0003909772?ntype=RANKING">“F-35보다 B-52가 더 무섭다”... 중국군 워게임 의외의 결과</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005604200?ntype=RANKING">대통령실 '퇴사 브이로그' 직원의 정체…'김건희 전속 사진사'였다</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/023/0003909659?ntype=RANKING">윤석열이 이재명 대통령에게 남긴 ‘세 가지 교훈’</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005604285?ntype=RANKING">이재명 대통령 지지율 58.2%로 시작…'尹보다 높게 시작'[폴폴뉴스]</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/023/0003909774?ntype=RANKING">트럼프 “머스크, 대통령직 모욕... 그와의 관계는 끝났다”</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005604240?ntype=RANKING">1000兆 시장 잡아라…'제니 픽' 앞세워 반격 나선 농심</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/023/0003909781?ntype=RANKING">30kg 바벨 원판 목에 걸고 다닌 유기견… 견주 “마당에 묶어둘 곳 없어서” 해명</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005604287?ntype=RANKING">"신문에 내 나체사진 실렸다"…여성 의원, 의회서 공개한 이유</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/023/0003909657?ntype=RANKING">요즘 MZ 직장인, 회식을 먼저 요구한다는데</a></td>
+        <td><a href="https:///n.news.naver.com/article/277/0005604071?ntype=RANKING">"에어컨은 필수인데, 우리 5만원에 쓸까"…가벼운 주머니, 혼수의 대안[주머니톡]</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
