@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-06-11)
+## 📅 Latest News (2025-06-12)
 
-📊 **🟢 긍정 뉴스: 5개 | 🔴 부정 뉴스: 1개 | ⚪ 중립 뉴스: 403개**  
+📊 **🟢 긍정 뉴스: 5개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 397개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/016/0002482951?ntype=RANKING">‘300억 로또 당첨’ 20대 청년의 충격적 비극, 5년만에 숨진 채 발견</a></td>
+        <td><a href="https:///n.news.naver.com/article/018/0006036824?ntype=RANKING">李대통령 “대통령실 직원 과로로 쓰러져…무거운 책임감 느껴”</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/016/0002482892?ntype=RANKING">“이러다 다 털린다” 너도나도 난리더니…초유의 ‘80만명 이탈’ 대충격</a></td>
+        <td><a href="https:///n.news.naver.com/article/018/0006036801?ntype=RANKING">이재명의 '법적 청년기준 현실화'…34세 상한 상향 추진</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/016/0002483017?ntype=RANKING">“비트코인! 빨리 해야 해” 재석이형 말 두 달 전이라도 들을 걸 그랬나…11만弗 안착 후 최고가? [투자360]</a></td>
+        <td><a href="https:///n.news.naver.com/article/018/0006036745?ntype=RANKING">핏빛으로 물든 클럽…50명 숨진 美 최악의 총기 참사[그해 오늘]</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/016/0002482947?ntype=RANKING">“거대한 ‘혹’ 바닥에 질질” 이걸 고기로 먹는다…돼지 농장 ‘끔찍한 비밀’ [지구, 뭐래?]</a></td>
+        <td><a href="https:///n.news.naver.com/article/018/0006036147?ntype=RANKING">"여긴 못 다녀" 2040 연봉 높아도 퇴사하는 이유</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/016/0002482984?ntype=RANKING">[단독] 30대 싱글맘 죽음 내몰았는데…5000% 고리 사채업자 풀려났다 [세상&]</a></td>
+        <td><a href="https:///n.news.naver.com/article/018/0006036831?ntype=RANKING">美증시, 미중 합의에도 약세…중동 긴장 고조에 투심 위축[뉴스새벽배송]</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
