@@ -2,9 +2,9 @@
 
 🚀 This project automatically scrapes the latest news daily and updates this repository.
 
-## 📅 Latest News (2025-06-12)
+## 📅 Latest News (2025-06-13)
 
-📊 **🟢 긍정 뉴스: 5개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 397개**  
+📊 **🟢 긍정 뉴스: 4개 | 🔴 부정 뉴스: 2개 | ⚪ 중립 뉴스: 403개**  
 
 <table>
     <tr>
@@ -14,27 +14,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="https:///n.news.naver.com/article/018/0006036824?ntype=RANKING">李대통령 “대통령실 직원 과로로 쓰러져…무거운 책임감 느껴”</a></td>
+        <td><a href="https:///n.news.naver.com/article/437/0000444452?ntype=RANKING">엄마처럼 키워준 고모 간병하자, 시모 "며느리로서의 도리나 해"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https:///n.news.naver.com/article/018/0006036801?ntype=RANKING">이재명의 '법적 청년기준 현실화'…34세 상한 상향 추진</a></td>
+        <td><a href="https:///n.news.naver.com/article/437/0000444417?ntype=RANKING">대통령실 인력난인데…사직서 안 내고 출근도 안 하는 '윤 정부 어공' 80명</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https:///n.news.naver.com/article/018/0006036745?ntype=RANKING">핏빛으로 물든 클럽…50명 숨진 美 최악의 총기 참사[그해 오늘]</a></td>
+        <td><a href="https:///n.news.naver.com/article/437/0000444458?ntype=RANKING">'반바지 차림' 목격된 윤…경찰 출석 불응한 채 개인일정</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https:///n.news.naver.com/article/018/0006036147?ntype=RANKING">"여긴 못 다녀" 2040 연봉 높아도 퇴사하는 이유</a></td>
+        <td><a href="https:///n.news.naver.com/article/437/0000444461?ntype=RANKING">이륙 직후 "메이데이"…인도서 여객기 추락 "생존자 1명"</a></td>
         <td>😐 중립</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https:///n.news.naver.com/article/018/0006036831?ntype=RANKING">美증시, 미중 합의에도 약세…중동 긴장 고조에 투심 위축[뉴스새벽배송]</a></td>
+        <td><a href="https:///n.news.naver.com/article/437/0000444418?ntype=RANKING">[단도직입] 박주민 "이재명 정부 출범 후 공백과 혼란 사라져…안정 찾아가고 있다"</a></td>
         <td>😐 중립</td>
     </tr></table>  
 
